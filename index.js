@@ -215,7 +215,7 @@ run().catch(console.log);
 
 // Default route
 app.get('/', async (req, res) => {
-    res.send('New Doctors Server Running')
+    res.send('New Line Broadband Running')
 })
 
 
